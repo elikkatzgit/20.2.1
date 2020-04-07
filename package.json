@@ -9,7 +9,7 @@
     "lib"
   ],
   "dependencies": {
-    "jquery": "3.4.1",
+    "jquery": "3333.4.1",
     "d3-dispatch": "1.0.3"
   }
 }
