@@ -20,5 +20,5 @@ steps:
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
-- task: whitesource.ws-bolt.bolt.wss.WhiteSource Bolt@20
+- task: whitesource.ws-bolt.bolt.wss.WhiteSource Bolt@19
   displayName: 'WhiteSource Bolt'
