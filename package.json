@@ -11,7 +11,7 @@
   "dependencies": {
     "jquery": "3.4.1",
     "d3-dispatch": "1.0.3",
-    "handlebars": "4.5.1"
+    "handlebars": "4.7.6"
   }
 }
 
